@@ -1,19 +1,27 @@
-To run the client GUI
+Make sure Node and NPM are installed.
+
+Start by installing the required NPM libraries:
 
 ```
-Node and NPM must be install
 npm install -g --production windows-build-tools
-cd client && npm install
+```
+
+Next install and start the DApp:
+
+```
+npm install
 npm start
 ```
 
 
-To build a deployable solution
+To build a deployable solution, make sure you add the following to package.json before building:
 
 ```
-Add the following to package.json before building:
-
 "homepage": "./",
+```
 
-then: npm run build
+then run the following command:
+
+```
+npm run build
 ```
