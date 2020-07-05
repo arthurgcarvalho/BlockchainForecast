@@ -1,5 +1,3 @@
-# cardinalhealth-blockchain
-
 To run the client GUI
 
 ```
