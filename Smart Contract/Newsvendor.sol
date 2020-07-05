@@ -18,7 +18,7 @@ contract ForecastContract is usingProvable {
     uint[] public reportedForecast; 
     
     //Outcome-related variable 
-    uint observedOutcomeIndex = 2;     //Observed outcome - initial value is invalid
+    uint public observedOutcomeIndex = 2;     //Observed outcome - initial value is invalid
     
     //Variable that defines whether the contract is active
     bool public contractActive = true;
