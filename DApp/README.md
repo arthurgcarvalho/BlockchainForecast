@@ -6,7 +6,7 @@ Start by installing the required NPM libraries:
 npm install -g --production windows-build-tools
 ```
 
-Next install and start the DApp:
+Next, install and start the DApp:
 
 ```
 npm install
