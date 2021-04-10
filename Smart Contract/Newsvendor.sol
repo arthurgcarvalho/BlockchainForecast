@@ -76,7 +76,7 @@ contract ForecastContract is usingProvable {
         }
         else {            
             uint payment = 0; 
-            if(reportedForecast[1] <= 75) {
+            if(reportedForecast[1] <= 25) {
                 payment = 500000000000000000; // 0.5 ethers
             }
             else {
