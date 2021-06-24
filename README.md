@@ -1,4 +1,4 @@
-# BlockchainForecast
+# Aligning the Interests of Newsvendors and Forecasters Through Blockchain-Based Smart Contracts and Proper Scoring Rules
 
 This project contains the source code of the major artifacts proposed in the paper "Aligning the Interests of Newsvendors and Forecasters Through Blockchain-Based Smart Contracts and Proper Scoring Rules".
 
